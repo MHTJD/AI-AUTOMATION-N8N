@@ -1,5 +1,9 @@
 OPENAI_API_KEY= NULL
+GOOGLE_DRIVE_CREDENTIALS= https://drive.google.com/drive/folders/1ev4a6EXHksHcPc6KXlW2jaLniGlmvugI?usp=sharing
+GOOGLE_DOCS_CREDENTIALS= https://docs.google.com/spreadsheets/d/1HnPUsSNLhVwTQYPhTliU36Ua0y4r_Wh0dTYNLje8TUo/edit?usp=sharing
+
 RAG Agent 1st part.json
+
 {
   "name": "RAG Agent 1st part",
   "nodes": [
@@ -543,7 +547,3 @@ RAG Agent  2nd Part.json
   "id": "LBMbIjec5YJkYqNf",
   "tags": []
 }
-
-
-GOOGLE_DRIVE_CREDENTIALS= https://drive.google.com/drive/folders/1ev4a6EXHksHcPc6KXlW2jaLniGlmvugI?usp=sharing
-GOOGLE_DOCS_CREDENTIALS= https://docs.google.com/spreadsheets/d/1HnPUsSNLhVwTQYPhTliU36Ua0y4r_Wh0dTYNLje8TUo/edit?usp=sharing
