@@ -12,9 +12,6 @@ An end-to-end Retrieval-Augmented Generation (RAG) customer support system built
 - Google Sheets conversation logging
 - Webhook API
 
-## Architecture
-
-[Architecture Image]
 
 ## Workflow
 
